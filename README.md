@@ -107,9 +107,16 @@ haikucraft/
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
+### 🌸 Landing Screen
+![Landing Screen](screenshots/one.png)
 
+### ✍️ Input 1: Season Selection
+![Season Input](screenshots/two.png)
+
+### 💬 Input 2: Cutting Word + Haiku Output
+![Cutting Word and Result](screenshots/three.png)
 
 ---
 
